@@ -31,6 +31,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     
     delete[] b;
-    
+    std::cout << "Ismerős látta(Rigó Imre Adrián)" << std::endl;
     return 0;
 }
